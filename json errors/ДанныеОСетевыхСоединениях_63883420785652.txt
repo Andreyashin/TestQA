@@ -1,0 +1,38 @@
+﻿
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    127.0.0.1:63141        127.0.0.1:6471         SYN_SENT        2860
+  TCP    192.168.0.108:55625    2.16.241.200:443       CLOSE_WAIT      11188
+  TCP    192.168.0.108:55626    2.16.241.204:443       CLOSE_WAIT      11188
+  TCP    192.168.0.108:55651    40.90.65.35:443        CLOSE_WAIT      11188
+  TCP    192.168.0.108:55652    2.17.190.73:80         CLOSE_WAIT      11188
+  TCP    192.168.0.108:59059    149.154.167.41:443     ESTABLISHED     5412
+  TCP    192.168.0.108:59077    91.105.192.100:443     ESTABLISHED     5412
+  TCP    192.168.0.108:59104    91.105.192.100:443     ESTABLISHED     5412
+  TCP    192.168.0.108:59111    91.105.192.100:443     ESTABLISHED     5412
+  TCP    192.168.0.108:59138    91.105.192.100:443     ESTABLISHED     5412
+  TCP    192.168.0.108:59964    91.105.192.100:443     ESTABLISHED     5412
+  TCP    192.168.0.108:61932    91.105.192.100:443     ESTABLISHED     5412
+  TCP    192.168.0.108:62027    91.105.192.100:443     ESTABLISHED     5412
+  TCP    192.168.0.108:62784    91.105.192.100:443     ESTABLISHED     5412
+  TCP    192.168.0.108:63051    52.205.3.218:443       CLOSE_WAIT      12500
+  TCP    192.168.0.108:63134    20.190.160.64:443      ESTABLISHED     14764
+  TCP    192.168.0.108:63311    51.83.238.210:443      ESTABLISHED     4332
+  TCP    192.168.0.108:63318    172.211.123.249:443    ESTABLISHED     4208
+  TCP    192.168.0.108:63414    34.231.252.223:443     ESTABLISHED     12500
+  TCP    192.168.0.108:63612    2.16.16.166:443        CLOSE_WAIT      11440
+  TCP    [::1]:5426             [::1]:63322            ESTABLISHED     4
+  TCP    [::1]:5426             [::1]:63323            ESTABLISHED     4
+  TCP    [::1]:5426             [::1]:63456            ESTABLISHED     4
+  TCP    [::1]:5426             [::1]:63457            ESTABLISHED     4
+  TCP    [::1]:5426             [::1]:63458            ESTABLISHED     4
+  TCP    [::1]:5426             [::1]:63459            ESTABLISHED     4
+  TCP    [::1]:48011            [::1]:63133            ESTABLISHED     6968
+  TCP    [::1]:63133            [::1]:48011            ESTABLISHED     4820
+  TCP    [::1]:63322            [::1]:5426             ESTABLISHED     5940
+  TCP    [::1]:63323            [::1]:5426             ESTABLISHED     5940
+  TCP    [::1]:63456            [::1]:5426             ESTABLISHED     5940
+  TCP    [::1]:63457            [::1]:5426             ESTABLISHED     5940
+  TCP    [::1]:63458            [::1]:5426             ESTABLISHED     5940
+  TCP    [::1]:63459            [::1]:5426             ESTABLISHED     5940
